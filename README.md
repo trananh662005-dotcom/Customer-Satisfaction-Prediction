@@ -247,13 +247,12 @@ Business Insights and Recommendations
 ```
 ---
 
-# 📚 Key Learning Outcomes
+## 📚 Key Learning Outcomes
 
 Through this project, I practiced:
 
 - End-to-end data preprocessing
 - Exploratory data analysis (EDA)
-- Feature engineering
 - Handling imbalanced datasets
 - Building classification models
 - Model evaluation and comparison
@@ -266,9 +265,7 @@ Through this project, I practiced:
 
 **Tran Anh**
 
-Final-year International Business student with a strong interest in Data Analytics.
-
-- SQL
-- Python
-- Power BI
-- Machine Learning
+Final-year International Business student passionate about Data Analytics.
+- LinkedIn: www.linkedin.com/in/anh-trần-thị-minh-481789291
+- GitHub: https://github.com/trananh662005-dotcom
+- Email: trananh662005@gmail.com
